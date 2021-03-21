@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #FAF0E6;
+}
+
+a {
+    color: black !important;
+}
+
+.banner-img {
+    width: 100%;
+}
+
+.inner {
+    background-color: #F8F8FF;
+    padding: 0 10px 1px 50px;
+}
+
+section h1 {
+    color: hotpink;
+}
+
+.ice-cream {
+    width: 50%;
+}
+
+footer {
+    background-color: #9ACD32;
+    padding: 30px 30px;
+}
+
+footer h3 {
+    color: #fff;
+    text-align: center;
+}
+
+.fa {
+    padding-left: 210px;
+    color: #fff;
+}
+ 
